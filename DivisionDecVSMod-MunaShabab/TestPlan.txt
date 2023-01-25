@@ -1,0 +1,6 @@
+*created the click event handler for the calculate button
+*test the validcation for the dividend by entering a decimal or a letter and also by entering an integer
+*test the validation for the divisor by entering a decimal, a zero or an integer
+*check to make sure that the calculation is correct 
+*created the click event handler for the clear button
+*made sure it cleared all the numbers and checked the calculate button function again
